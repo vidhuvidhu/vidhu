@@ -5,9 +5,9 @@ void main()
 {
 int a;
 scanf("%d",&a);
-if(n%==1)
+if(a%2==1)
 printf("print Even");
-if(n%==0)
+if(a%2==0)
 printf("print odd");
 getch();
 }
